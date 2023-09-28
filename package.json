@@ -1,0 +1,17 @@
+{
+  "name": "bikeshed-colors",
+  "version": "1.0.0",
+  "description": "Color parsing, converting and formatting library. Should parse any CSS color string and return a color object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [
+    "color"
+  ],
+  "author": "John O'Donnell",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.34.5"
+  }
+}
